@@ -1,6 +1,5 @@
 # Hello 
 ## Love domain name 
-## [Dong.Ge](https://dong.ge)
-## [Zhan.Ge](https://zhan.ge)
-## [Yun.Fan](https://yun.fan)
-### 直挂云帆 乘风破浪 Yun.Fan
+## 东哥 [Dong.Ge](https://dong.ge)
+## 占戈 [Zhan.Ge](https://zhan.ge)
+## 云舤 [Yun.Fan](https://yun.fan)
